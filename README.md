@@ -1,6 +1,4 @@
-This is the final, production-ready **README.md** file for your project. It includes everything from the previous guides plus clear instructions on troubleshooting, tools, and accessing your local environment.
 
-```markdown
 # 🐳 Laravel Enterprise Docker Environment
 
 This repository provides a high-performance, containerized development environment specifically tuned for Laravel applications. It features a modular architecture using **PHP 8.2-FPM**, **Nginx (Alpine)**, and **MariaDB 10.11**.
@@ -39,9 +37,6 @@ Ensure you have the following installed:
    ```bash
    docker compose up -d --build
 
-```
-
----
 
 ## 🌐 Service Discovery & Access
 
