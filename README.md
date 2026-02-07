@@ -1,6 +1,4 @@
-To help you create a professional GitHub page, you should use a **README.md** file. This is the first thing people see when they visit your repository, and it demonstrates that you understand industry-standard documentation.
 
-Below is a "Pro" guide you can copy directly into your repository.
 
 ---
 
