@@ -84,8 +84,6 @@ Run these inside the container so you don't need PHP installed on your PC:
 
 ## 🗄️ Database Management (Enterprise Workflows)
 
-For large-scale data (like **Sugar Mill** or **CMRL** systems), avoid browser-based exports which can time out. Use the high-speed CLI utility:
-
 **Full Database Export (Backup):**
 
 ```bash
